@@ -8,7 +8,7 @@ class Customer
     @@all << self
   end
 
-  def sef.all
+  def self.all
     @@all
   end
 
